@@ -1,2 +1,2 @@
-# hello-world
-Repository for current topic class
+# My name is Kai
+This is the repository for the current topic class (MSBA).
